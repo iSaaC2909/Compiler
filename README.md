@@ -106,11 +106,11 @@ gcc -o compiler main.c lexer.c parser.c codegenerator.c -I.
 
 ## License
 
-[Specify your license here]
+Apache 2.0
 
 ## Authors
 
-[Your name/organization]
+Isaac Pemberton
 
 ## Acknowledgments
 
